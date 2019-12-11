@@ -23,7 +23,7 @@ WITH_JANSSON=1 make
 ```
 
 ### Dependencies
-
+ * [curl][2]
  * [libev][2]
  * [libevbuffsock][3]
  * [json-c][4] or [jansson][5]
